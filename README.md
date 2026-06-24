@@ -58,5 +58,5 @@ everything comes with dark mode, reusable baseplates, and a built-in 5% charity 
 - whatsapp: *coming soon*
 
 <p align="center">
-  <sub>built with honey, code, and a secret name story 🐝💛</sub>
+  <sub>built with honey, code, and an a heartfelt story 🐝💛</sub>
 </p>
